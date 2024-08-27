@@ -1,5 +1,5 @@
-# cs320
-Repository for my CS-320 class 
+# CS-320 Software Test Automation QA
+Project demonstrating object-oriented programming and unit testing using Java and JUnit. 
 
 ## How can I ensure that my code, program, or software is functional and secure?
 I ensure my product is functional by writing unit tests to prove that the software operates as expected under the provided input conditions. I use both black box and white box testing techniques to examine my software from multiple angles, making improvements as necessary.
